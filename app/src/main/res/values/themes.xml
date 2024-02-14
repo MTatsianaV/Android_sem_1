@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Buss" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="passengerText">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="seatsTextView">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+
+    <style name="Theme.Buss" parent="Base.Theme.Buss" />
+</resources>
